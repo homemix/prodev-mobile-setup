@@ -17,7 +17,7 @@ export default function HomeScreen() {
           style={styles.reactLogo}
         />
       }>
-      <p>Welcome to new app</p>
+      <p>First App Created</p>
     </ParallaxScrollView>
   );
 }
