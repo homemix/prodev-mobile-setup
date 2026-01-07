@@ -30,7 +30,7 @@ export default function Index() {
                         </TouchableOpacity>
                     </View>
                     <View style={{alignItems: "center",paddingVertical:20}}>
-                        <Text style={{color: "white"}}>Contimue to home</Text>
+                        <Text style={{color: "white"}}>Continue to home</Text>
                     </View>
                 </ImageBackground>
             </SafeAreaView>
